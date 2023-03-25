@@ -24,17 +24,3 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 </div>
 
 <br>
-
-## Rodando localmente
-
-Clone o projeto
-
-```bash
-  git clone 
-```
-
-Inicie o servidor
-
-```bash
-  npm run start
-```
