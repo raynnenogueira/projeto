@@ -30,7 +30,7 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 Clone o projeto
 
 ```bash
-  git clone https://github.com/raynnenogueira/projeto
+  git clone 
 ```
 
 Inicie o servidor
