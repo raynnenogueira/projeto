@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(242.83deg, rgba(202, 170, 170, 0.87) 0.72%, rgba(247, 60, 7, 0.7395) 59.71%);
+    height: 45px;
+    font-family: 'Lato', sans-serif;
+}
+
+img {
+    display: flex;
+    width: 325px;
+    height: 344.86px;
+    text-align: center;
+    margin: auto;
+}
+
+button{
+    position: relative;
+    width: 250px;
+    height: 82px;
+    left: 200px;
+    top: 20px;
+    background: #f95127;
+    box-shadow: 38px 4px 39px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    color: white;
+    font-size: large;
+    margin: 0 auto;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+}
