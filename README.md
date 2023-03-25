@@ -30,5 +30,11 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/raynnenogueira/projeto
+```
+
+Inicie o servidor
+
+```bash
+  npm run start
 ```
