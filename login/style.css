@@ -98,15 +98,17 @@ input[type="submit"] {
     color: var(--bg-color-secundary);
 }
 
-.fa-facebook-f {
-    background-color: var(--bg-color-tertiary);
-}
-
-.fa-google {
-    background-color: var(--bg-color-tertiary);
-}
-
-/* REGISTRAR */
 #register-container p {
     margin-bottom: 10px;
+}
+
+.icon {
+    position: absolute;
+    left: 100px;
+}
+
+.icon i {
+    color: black;
+    width: 41px;
+    font-size: 20px;
 }

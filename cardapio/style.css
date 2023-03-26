@@ -1,6 +1,7 @@
 body {
     background-color: #D75734;
     font-family: 'Lato', sans-serif;
+    overflow: hidden;
 } 
 
 h1{
@@ -19,7 +20,7 @@ header img  {
 
 #content {
     width: 800px;
-    height: 350px;
+    height: 460px;
     margin: 0 auto;
 }
 
@@ -38,3 +39,13 @@ p {
     font-size: 20px;
 }
 
+.icon button {
+    position: absolute;
+    left: 100px;
+}
+
+.icon i {
+    color: black;
+    width: 29px;
+    font-size: 20px;
+}
