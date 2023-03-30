@@ -1,0 +1,70 @@
+body {
+  position: relative;
+  height: 720px;
+  background: #D75734;
+  font-family: "Lato", sans-serif;
+  overflow: hidden;
+}
+
+img {
+  margin: 0;
+  position: absolute;
+  width: 220px;
+  top: 1%;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px;
+}
+
+div {
+  background-color: #D4D2D2;
+  height: 404px;
+  width: 886px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 369px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.buttons {
+  width: 410px;
+  height: 64px;
+  margin: 6px;
+  background: linear-gradient(90deg, #B2AFAF 0%, rgba(162, 185, 245, 0.5) 104%);
+}
+
+button {
+  background-color: #F96136;
+  position: absolute;
+  width: 150px;
+  height: 53px;
+  left: 364px;
+  top: 325px;
+  border-radius: 52px;
+  text-align: center;
+  color: #D4D2D2;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.icon button {
+  position: relative;
+  width: 56px;
+  height: 40px;
+  left: 51px;
+  top: 400px;
+}
+
+.icon i {
+  color: black;
+  width: 29px;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */
