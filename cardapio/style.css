@@ -14,7 +14,7 @@ h1{
 header .logo  {
     margin: 0;
     position: absolute;
-    width: 288px;
+    width: 230px;
 }
 
 #content {
@@ -40,11 +40,13 @@ p {
 
 .icon button {
     position: absolute;
-    left: 100px;
+    left: 44px;
+    width: 45px;
+    height: 40px;   
+    background-color: #D75734;
 }
 
 .icon i {
     color: black;
-    width: 29px;
     font-size: 20px;
 }
