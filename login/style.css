@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     color: var(--bg-color-primary);
-    border: none;
 }
 
 :root {
@@ -100,6 +99,12 @@ input[type="submit"] {
 
 #register-container p {
     margin-bottom: 10px;
+}
+
+button {
+    width: 43px;
+    height: 31px;
+    background-color: var(--bg-color-tertiary);
 }
 
 .icon {
