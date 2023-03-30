@@ -11,26 +11,25 @@ h1{
     font-weight: 600;
 }
 
-header img  {
+header .logo  {
     margin: 0;
     position: absolute;
-    width: 144px;
-    height: 144.72px;
+    width: 288px;
 }
 
 #content {
     width: 800px;
     height: 460px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .images {
     width: 200px;
     height: 300px;
     float: left;
-    padding: 0 20px 10px 0;
-    margin-left: 20px;
-    text-align: center;
+    padding: 0 20px 33px 0;
+    margin-left: 45px;
 }
 
 p {
