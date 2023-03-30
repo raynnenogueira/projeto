@@ -33,9 +33,11 @@ div {
 }
 
 .buttons {
-  width: 410px;
-  height: 64px;
+  width: 394px;
+  height: 58px;
   margin: 6px;
+  font-size: 17px;
+  color: black;
   background: linear-gradient(90deg, #B2AFAF 0%, rgba(162, 185, 245, 0.5) 104%);
 }
 
