@@ -11,7 +11,7 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 - [Raynne](https://www.linkedin.com/in/raynne-nogueira/)
 - [Elisangela](https://www.github.com/octokatherine)
 - [Thaynan](https://www.github.com/octokatherine)
-- [Matheus](https://www.github.com/octokatherine)
+- [Matheus](https://www.linkedin.com/in/matheus-moura-85688b253?trk=contact-info)
 - [William](https://www.github.com/octokatherine)
 
 <br>
