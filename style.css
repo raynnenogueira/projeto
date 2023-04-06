@@ -30,3 +30,22 @@ button a {
     color: white;
     text-decoration: none;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    body {
+        display: grid;
+    }
+
+    .button button {
+        margin-bottom: 3px;
+        width: 60%;
+        left: 56px;
+    }
+
+    img {
+        width: 285px;
+        height: 285px;
+    }
+}

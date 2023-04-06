@@ -71,3 +71,47 @@ button {
     width: 29px;
     font-size: 20px;
 }
+
+
+@media only screen and (max-width: 768px) {
+    body {
+      height: 572px;
+      overflow: auto;
+    }
+  
+    img {
+      width: 105px;
+    }
+  
+    h1 {
+      padding: 53px;
+      font-size: 27px;
+    }
+  
+    div {
+      width: 90%;
+      height: auto;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      margin-top: 50px;
+    }
+  
+    .buttons {
+      width: 80%;
+      margin: 10px 0;
+      font-size: 14px;
+    }
+  
+    button {
+      width: 50%;
+      left: 0;
+      margin-top: 20px;
+      margin-left: 60px;
+    }
+  
+    .icon button {
+      left: 17px;
+      top: 385px;
+    }
+  }
+  
