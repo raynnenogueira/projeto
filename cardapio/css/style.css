@@ -1,0 +1,84 @@
+body {
+  background-color: #D75734;
+  font-family: "Lato", sans-serif;
+  overflow: hidden;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin: 44px;
+  font-weight: 600;
+}
+
+header .logo {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 47px;
+  top: 29px;
+  filter: drop-shadow(38px 4px 39px rgba(0, 0, 0, 0.25));
+}
+
+#content {
+  width: 800px;
+  height: 460px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.images {
+  width: 200px;
+  height: 273px;
+  float: left;
+  padding: 0 20px 48px 0;
+  margin-left: 45px;
+}
+
+p {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.price {
+  width: 192px;
+  height: 44px;
+  border-radius: 28px;
+  font-family: "Lato";
+  color: #000000;
+}
+
+.icon button {
+  position: absolute;
+  left: 44px;
+  width: 45px;
+  height: 40px;
+  background-color: #D75734;
+}
+
+.icon i {
+  color: black;
+  font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  #content {
+    width: 100%;
+    height: auto;
+  }
+  .images {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0 auto;
+  }
+  header .logo {
+    width: 120px;
+    height: 120px;
+    left: 20%;
+    transform: translateX(-50%);
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
