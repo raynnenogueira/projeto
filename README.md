@@ -5,14 +5,17 @@
 Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 
 <br>
+<a href="https://raynnenogueira.github.io/projeto/" target="_blank">Visite aqui o projeto</a>
+
+<br>
 
 ## Autores
 
 - [Raynne](https://www.linkedin.com/in/raynne-nogueira/)
-- [Elisangela](https://www.github.com/octokatherine)
-- [Thaynan](https://www.github.com/octokatherine)
+- [Elisangela]()
+- [Thaynan]()
 - [Matheus](https://www.linkedin.com/in/matheus-moura-85688b253?trk=contact-info)
-- [William](https://www.github.com/octokatherine)
+- [William]()
 
 <br>
 
