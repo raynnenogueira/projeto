@@ -7,14 +7,17 @@ body {
 h1{
     color: white; 
     text-align: center;
-    margin: 50px;
+    margin: 44px;
     font-weight: 600;
 }
 
 header .logo  {
-    margin: 0;
     position: absolute;
-    width: 230px;
+    width: 180px;
+    height: 180px;
+    left: 47px;
+    top: 29px;
+    filter: drop-shadow(38px 4px 39px rgba(0, 0, 0, 0.25));
 }
 
 #content {
@@ -26,9 +29,9 @@ header .logo  {
 
 .images {
     width: 200px;
-    height: 300px;
+    height: 273px;
     float: left;
-    padding: 0 20px 33px 0;
+    padding: 0 20px 48px 0;
     margin-left: 45px;
 }
 
@@ -36,6 +39,15 @@ p {
     color: white;
     font-weight: 600;
     font-size: 20px;
+}
+
+.price {
+    width: 192px;
+    height: 44px;
+    border-radius: 28px;
+
+    font-family: 'Inter';
+    color: #000000;
 }
 
 .icon button {
