@@ -12,8 +12,8 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 ## Autores
 
 - [Raynne](https://www.linkedin.com/in/raynne-nogueira/)
-- [Elisangela]()
-- [Thaynan]()
+- [Elisangela](https://github.com/elisangelaf/)
+- [Thaynan](https://www.linkedin.com/in/thaynan-s%C3%A2mires-643237229)
 - [Matheus](https://www.linkedin.com/in/matheus-moura-85688b253?trk=contact-info)
 - [William]()
 
@@ -27,3 +27,10 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 </div>
 
 <br>
+<br>
+
+
+## Demonstração
+
+![Inicio e mais 3 páginas - Pessoal — Microsoft_ Edge 2023-04-07 13-32-22 - Compressed with FlexClip (1)](https://user-images.githubusercontent.com/85042179/230648960-04b5f690-e861-4988-b2fa-b5407ff260c4.gif)
+
