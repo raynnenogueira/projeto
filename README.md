@@ -33,5 +33,4 @@ Esse foi um trabalho proposto para a disciplina de Codigos Web Coding
 
 ## Demonstração
 
-![Inicio e mais 3 páginas - Pessoal — Microsoft_ Edge 2023-04-07 13-32-22 - Compressed with FlexClip (1)](https://user-images.githubusercontent.com/85042179/230648960-04b5f690-e861-4988-b2fa-b5407ff260c4.gif)
-
+![WhatsApp-Video-2023-04-13-at-14 57 26](https://user-images.githubusercontent.com/85042179/231844707-26b80493-4b36-49fa-b710-e722806f1265.gif)
