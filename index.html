@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="3643769-building-home-house-main-menu-start_113416.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <title>Inicio</title>
 </head>
 <body>
@@ -19,21 +19,19 @@
 
    
     <div class="button"> 
-        <button>
+        <button id="botaoLogin" onmousemove="passarMouse()" onmouseout="retirarMouse()">
             <a href="./login/index.html">LOGIN</a>
         </button>
 
-        <button>
+        <button id="botaoForm" onmousemove="passarForm()" onmouseout="retirarForm()">
             <a href="./formulario/index.html">FORMULARIO</a>
         </button>
 
-        <button>
+        <button id="botaoCardp" onmousemove="passarCardp()" onmouseout="retirarCardp()">
             <a href="./cardapio/index.html">CARDAPIO</a>
         </button>
-
-        <button>
-            <a href="#">DASHBOARD</a>
-        </button>
     </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
